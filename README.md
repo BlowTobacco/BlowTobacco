@@ -15,7 +15,7 @@
 
 ## ⌛ What am i doing now?
   - I [grief servers](https://www.youtube.com/@BlowTobacco) (only did this because i was wronged)
-  - I own my own [discord server](discord.gg/blowtobacco) gg/blowtobacco <3
+  - I own my own discord server discord.gg/blowtobacco <3
   - I own a discord bot for my personal server that i plan on continuing
   - Related to minecraft server configuration i am currently not hired anywhere (contact blowtobacco for hire)
 
