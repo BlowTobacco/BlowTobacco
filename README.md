@@ -9,12 +9,10 @@
   - I'm a 3-year experienced Minecraft configurator.
   - Specializing in server configurations.
   - I've helped configure servers like TerraMC DragonRomania (Shitty aternos servers and my servers).
-  - I also [grief servers](https://www.youtube.com/@BlowTobacco) XD
 
 ---
 
 ## ⌛ What am i doing now?
-  - I [grief servers](https://www.youtube.com/@BlowTobacco) (only did this because i was wronged)
   - I own my own discord server discord.gg/blowtobacco <3
   - I own a discord bot for my personal server that i plan on continuing
   - Related to minecraft server configuration i am currently not hired anywhere (contact blowtobacco for hire)
