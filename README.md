@@ -8,15 +8,14 @@
 - **Minecraft Configurator** 🎮:
   - I'm a 3-year experienced Minecraft configurator.
   - Specializing in server configurations.
-  - I've helped configure servers like TerraMC DragonRomania (Shitty aternos servers and my servers).
+  - I've helped configure servers like TerraMC, DragonRomania, (now) [BlazedLand](store.blazedland.ro) (Shitty aternos servers and my servers).
 
 ---
 
 ## ⌛ What am i doing now?
-  - I own my own discord server discord.gg/blowtobacco <3
-  - I own a discord bot for my personal server that i plan on continuing
-  - Related to minecraft server configuration i am currently not hired anywhere (contact blowtobacco for hire)
-
+  - I own my own discord server (dead, if any1 wants to buy it i got 2)
+  - I work for a minecraft server named BlazedLand in Romania.
+  
 ---
 
 ## 🔧 Technologies & Skills
@@ -24,7 +23,7 @@
 |-------------------------------|---------------------------|
 | **Minecraft Server Configuration** | 🟩 Advanced               |
 | **Discord.js** | 🟨 Learning in progress   |
-| **Minecraft Plugin Creation** | 🟥 Not started learning   |
+| **Minecraft Plugin Creation** | 🟨 Learning in progress  |
 
 ---
 
