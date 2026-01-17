@@ -29,4 +29,4 @@
 
 ## 🌐 Contact me
 - **Website**: In progress
-- **Discord**: BlowTobacco
+- **Discord**: blutobako
