@@ -6,15 +6,29 @@
 
 ## 🛠️ Who Am I?
 - **Minecraft Configurator** 🎮:
-  - I'm a 3-year experienced Minecraft configurator.
+  - I'm a 4-year experienced Minecraft configurator.
   - Specializing in server configurations.
-  - I've helped configure servers like TerraMC, DragonRomania, (now) [BlazedLand](store.blazedland.ro) (Shitty aternos servers and my servers).
+  - I've helped configure servers like:
+  
+- **2024**
+  - `play.dragonromania.ro`
+
+- **2025**
+  - `play.terramc.ro`
+  - `play.mcshock.fun`
+  - `[PRIVATE SERVER]`
+  - `play.dragonmc.ro`
+  - `play.ludeon.net`
+  - `peachmc.eu`
+  - `play.blazedland.ro`
+  - `play.evolutionmc.ro`
+  - `play.craftaddicted.ro`
+
 
 ---
 
 ## ⌛ What am i doing now?
-  - I own my own discord server (dead, if any1 wants to buy it i got 2)
-  - I work for a minecraft server named BlazedLand in Romania.
+  - Nothing. You can hire me for your discord and minecraft
   
 ---
 
@@ -22,7 +36,7 @@
 | Technology / Skill            | Level                     |
 |-------------------------------|---------------------------|
 | **Minecraft Server Configuration** | 🟩 Advanced               |
-| **Discord.js** | 🟨 Learning in progress   |
+| **Discord.js** | 🟩 Advanced  |
 | **Minecraft Plugin Creation** | 🟨 Learning in progress  |
 
 ---
