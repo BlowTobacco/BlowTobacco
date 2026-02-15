@@ -23,6 +23,7 @@
   - `play.blazedland.ro`
   - `play.evolutionmc.ro`
   - `play.craftaddicted.ro`
+  - `romka.cc (soon developments)`
 
 
 ---
